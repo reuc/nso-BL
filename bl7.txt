@@ -84,8 +84,8 @@ rateschoice.com
 ip140.ip-149-56-181.net
 google.com.menstepan.net
 jounci.reamertuck.com
-cdn.igooglefiles.com
 igooglefiles.com
+cdn.igooglefiles.com
 ajepcoin.com
 www.ajepcoin.com
 www.cfjwj.org
