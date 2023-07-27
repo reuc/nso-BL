@@ -1,7 +1,7 @@
 cdnpackage.com
 cdn.jguery.org
-cdn-analytics.com
 jquery-stack.online
+cdn-analytics.com
 jquery-cdn.online
 cdnpakage.com
 kmdia.or.kr
@@ -195,8 +195,8 @@ www.namibianembassyusa.org
 www.europeanlawmootcourt.eu
 www.avsa.org
 www.empireresorts.com
-namibiaembassyusa.org
 namibianembassyusa.org
+namibiaembassyusa.org
 namibiaembassy.org
 feei.at
 capcooperation.org
