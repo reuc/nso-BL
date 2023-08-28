@@ -92,8 +92,8 @@ google.com.menstepan.net
 jounci.reamertuck.com
 igooglefiles.com
 cdn.igooglefiles.com
-ajepcoin.com
 www.ajepcoin.com
+ajepcoin.com
 www.cfjwj.org
 www.bioresurse.ro
 www.nfi.org.in
@@ -195,9 +195,9 @@ www.namibianembassyusa.org
 www.europeanlawmootcourt.eu
 www.avsa.org
 www.empireresorts.com
+namibianembassyusa.org
 namibiaembassyusa.org
 namibiaembassy.org
-namibianembassyusa.org
 feei.at
 capcooperation.org
 kongquechang.com
@@ -210,9 +210,9 @@ www.capcooperation.org
 www.gefassembly.org
 www.wakenet3-europe.eu
 www.wakenet.eu
+embassypro.com
 www.planfor.ch
 europeanlawmootcourt.eu
-embassypro.com
 www.visaobtainers.com
 beijingshots.com
 www.uclassic.com
