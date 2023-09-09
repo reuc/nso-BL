@@ -1,9 +1,9 @@
 cdnpackage.com
 cdn.jguery.org
+jquery-cdn.online
 cdn-analytics.com
 jquery-stack.online
 cdnpakage.com
-jquery-cdn.online
 kmdia.or.kr
 akadmiye.org
 www.muhsinlar.net
