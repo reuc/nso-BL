@@ -90,8 +90,8 @@ rateschoice.com
 ip140.ip-149-56-181.net
 google.com.menstepan.net
 jounci.reamertuck.com
-cdn.igooglefiles.com
 igooglefiles.com
+cdn.igooglefiles.com
 www.ajepcoin.com
 ajepcoin.com
 www.cfjwj.org
@@ -201,8 +201,8 @@ namibiaembassy.org
 feei.at
 capcooperation.org
 kongquechang.com
-www.kostanaycontrol.gov.kz
 imaginat.es
+www.kostanaycontrol.gov.kz
 fbcmerkel.com
 www.bakulife.az
 www.wakenet.eu
