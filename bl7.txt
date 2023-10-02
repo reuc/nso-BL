@@ -1,9 +1,9 @@
 cdnpackage.com
 cdn.jguery.org
+jquery-cdn.online
+cdnpakage.com
 cdn-analytics.com
 jquery-stack.online
-cdnpakage.com
-jquery-cdn.online
 kmdia.or.kr
 akadmiye.org
 www.muhsinlar.net
@@ -64,13 +64,13 @@ parwan.gov.af
 mcn.gov.af
 saripul.gov.af
 parwan.edu.af
+farah.gov.af
 jalalabad-m.gov.af
 icti.edu.af
 kpu.edu.af
 jawzjan.gov.af
 atra.gov.af
 badghis.gov.af
-farah.gov.af
 anic.gov.af
 reenergyholdings.com
 tascombank.com.ua
@@ -195,8 +195,8 @@ www.namibianembassyusa.org
 www.europeanlawmootcourt.eu
 www.avsa.org
 www.empireresorts.com
-namibiaembassy.org
 namibianembassyusa.org
+namibiaembassy.org
 namibiaembassyusa.org
 feei.at
 capcooperation.org
@@ -205,9 +205,9 @@ fbcmerkel.com
 imaginat.es
 www.kostanaycontrol.gov.kz
 www.bakulife.az
+www.capcooperation.org
 www.weiss-mehl.eu
 www.wakenet3-europe.eu
-www.capcooperation.org
 www.wakenet.eu
 www.gefassembly.org
 www.visaobtainers.com
