@@ -1,7 +1,7 @@
 cdnpackage.com
 cdn.jguery.org
-cdn-analytics.com
 jquery-stack.online
+cdn-analytics.com
 cdnpakage.com
 jquery-cdn.online
 kmdia.or.kr
