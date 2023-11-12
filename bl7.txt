@@ -72,10 +72,10 @@ badghis.gov.af
 atra.gov.af
 farah.gov.af
 anic.gov.af
+reenergyholdings.com
 www.reenergyholdings.com
 www.tascombank.com.ua
 tascombank.com.ua
-reenergyholdings.com
 www.oilandgaseng.com
 oilandgaseng.com
 moci.gov.af
@@ -87,8 +87,8 @@ spendguide.net
 www.misconceptlog.info
 misconceptlog.info
 rateschoice.com
-ip140.ip-149-56-181.net
 google.com.menstepan.net
+ip140.ip-149-56-181.net
 jounci.reamertuck.com
 igooglefiles.com
 cdn.igooglefiles.com
