@@ -92,8 +92,8 @@ google.com.menstepan.net
 jounci.reamertuck.com
 cdn.igooglefiles.com
 igooglefiles.com
-ajepcoin.com
 www.ajepcoin.com
+ajepcoin.com
 www.cfjwj.org
 www.bioresurse.ro
 www.nfi.org.in
@@ -201,9 +201,9 @@ namibiaembassy.org
 feei.at
 capcooperation.org
 kongquechang.com
-www.bakulife.az
-imaginat.es
 fbcmerkel.com
+imaginat.es
+www.bakulife.az
 www.kostanaycontrol.gov.kz
 www.wakenet.eu
 www.wakenet3-europe.eu
