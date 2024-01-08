@@ -90,8 +90,8 @@ rateschoice.com
 google.com.menstepan.net
 ip140.ip-149-56-181.net
 jounci.reamertuck.com
-cdn.igooglefiles.com
 igooglefiles.com
+cdn.igooglefiles.com
 ajepcoin.com
 www.ajepcoin.com
 www.cfjwj.org
@@ -205,11 +205,11 @@ www.kostanaycontrol.gov.kz
 imaginat.es
 fbcmerkel.com
 www.bakulife.az
+www.weiss-mehl.eu
 www.capcooperation.org
 www.wakenet.eu
 www.wakenet3-europe.eu
 www.gefassembly.org
-www.weiss-mehl.eu
 www.planfor.ch
 www.visaobtainers.com
 europeanlawmootcourt.eu
